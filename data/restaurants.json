@@ -1,9 +1,1 @@
-[
-  {
-    "name": "NAme",
-    "address": "NAme",
-    "cuisine": "NAme",
-    "website": "https://www.google.com",
-    "description": "NAme"
-  }
-]
+[{"name":"Indian Cuisine","cuisine":"Indian","address":"Atlantas Road","description":"The food quality is great","website":"https://www.google.com"}]
